@@ -3,7 +3,7 @@ require 'connect.php';
 
 $response = array();
 $upload_dir = 'uploads/';
-$server_url = 'http://ishowcase.epizy.com/php/';
+$server_url = 'http://localhost/10iShowcase-App/';
 
 
     if($_FILES['avatar'])

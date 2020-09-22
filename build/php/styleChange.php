@@ -9,9 +9,10 @@ if(isset($postdata) && !empty($postdata)) {
 
 	$id = $_GET['id'];
     $color = $request->color;
+    $radius = $request->radius;
 
 
-	$sql = "UPDATE `sell` SET `color`=? WHERE `id` = '{$id}' LIMIT 1";
+	$sql = "UPDATE `sell` SET `color`=?, `radius`=? WHERE `id` = '{$id}' LIMIT 1";
 
 	$stmt = mysqli_stmt_init($con);
 
@@ -19,7 +20,7 @@ if(isset($postdata) && !empty($postdata)) {
         echo "SQL error";
     } else {
     	
-        mysqli_stmt_bind_param($stmt, "s", $color);
+        mysqli_stmt_bind_param($stmt, "ss", $color, $radius);
         mysqli_stmt_execute($stmt);
 
         echo "Update Succesfull";
