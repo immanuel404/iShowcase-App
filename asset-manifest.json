@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.796f5faf.chunk.css",
+    "main.js": "./static/js/main.acc75f95.chunk.js",
+    "main.js.map": "./static/js/main.acc75f95.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a60d2f2b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a60d2f2b.js.map",
+    "static/js/2.79a5d9b1.chunk.js": "./static/js/2.79a5d9b1.chunk.js",
+    "static/js/2.79a5d9b1.chunk.js.map": "./static/js/2.79a5d9b1.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8b192a7fb420c9352bc13f14757bfc55.js": "./precache-manifest.8b192a7fb420c9352bc13f14757bfc55.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.796f5faf.chunk.css.map": "./static/css/main.796f5faf.chunk.css.map",
+    "static/js/2.79a5d9b1.chunk.js.LICENSE.txt": "./static/js/2.79a5d9b1.chunk.js.LICENSE.txt",
+    "static/media/comingsoon.png": "./static/media/comingsoon.c07a54cd.png",
+    "static/media/undraw.svg": "./static/media/undraw.20b8dd1a.svg",
+    "static/media/undraw2.svg": "./static/media/undraw2.f17dcc64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a60d2f2b.js",
+    "static/js/2.79a5d9b1.chunk.js",
+    "static/css/main.796f5faf.chunk.css",
+    "static/js/main.acc75f95.chunk.js"
+  ]
+}
