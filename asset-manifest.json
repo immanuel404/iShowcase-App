@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.796f5faf.chunk.css",
-    "main.js": "./static/js/main.acc75f95.chunk.js",
-    "main.js.map": "./static/js/main.acc75f95.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a60d2f2b.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a60d2f2b.js.map",
-    "static/js/2.79a5d9b1.chunk.js": "./static/js/2.79a5d9b1.chunk.js",
-    "static/js/2.79a5d9b1.chunk.js.map": "./static/js/2.79a5d9b1.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.8b192a7fb420c9352bc13f14757bfc55.js": "./precache-manifest.8b192a7fb420c9352bc13f14757bfc55.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.796f5faf.chunk.css.map": "./static/css/main.796f5faf.chunk.css.map",
-    "static/js/2.79a5d9b1.chunk.js.LICENSE.txt": "./static/js/2.79a5d9b1.chunk.js.LICENSE.txt",
-    "static/media/comingsoon.png": "./static/media/comingsoon.c07a54cd.png",
-    "static/media/undraw.svg": "./static/media/undraw.20b8dd1a.svg",
-    "static/media/undraw2.svg": "./static/media/undraw2.f17dcc64.svg"
+    "main.css": "/iShowcase-App/static/css/main.796f5faf.chunk.css",
+    "main.js": "/iShowcase-App/static/js/main.68773717.chunk.js",
+    "main.js.map": "/iShowcase-App/static/js/main.68773717.chunk.js.map",
+    "runtime-main.js": "/iShowcase-App/static/js/runtime-main.5094d9c0.js",
+    "runtime-main.js.map": "/iShowcase-App/static/js/runtime-main.5094d9c0.js.map",
+    "static/js/2.79a5d9b1.chunk.js": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js",
+    "static/js/2.79a5d9b1.chunk.js.map": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js.map",
+    "index.html": "/iShowcase-App/index.html",
+    "precache-manifest.0d495551bfcba2b590c3e94527102681.js": "/iShowcase-App/precache-manifest.0d495551bfcba2b590c3e94527102681.js",
+    "service-worker.js": "/iShowcase-App/service-worker.js",
+    "static/css/main.796f5faf.chunk.css.map": "/iShowcase-App/static/css/main.796f5faf.chunk.css.map",
+    "static/js/2.79a5d9b1.chunk.js.LICENSE.txt": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js.LICENSE.txt",
+    "static/media/comingsoon.png": "/iShowcase-App/static/media/comingsoon.c07a54cd.png",
+    "static/media/undraw.svg": "/iShowcase-App/static/media/undraw.20b8dd1a.svg",
+    "static/media/undraw2.svg": "/iShowcase-App/static/media/undraw2.f17dcc64.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a60d2f2b.js",
+    "static/js/runtime-main.5094d9c0.js",
     "static/js/2.79a5d9b1.chunk.js",
     "static/css/main.796f5faf.chunk.css",
-    "static/js/main.acc75f95.chunk.js"
+    "static/js/main.68773717.chunk.js"
   ]
 }
