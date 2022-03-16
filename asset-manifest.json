@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iShowcase-App/static/css/main.796f5faf.chunk.css",
+    "main.js": "/iShowcase-App/static/js/main.571b4ebe.chunk.js",
+    "main.js.map": "/iShowcase-App/static/js/main.571b4ebe.chunk.js.map",
+    "runtime-main.js": "/iShowcase-App/static/js/runtime-main.5094d9c0.js",
+    "runtime-main.js.map": "/iShowcase-App/static/js/runtime-main.5094d9c0.js.map",
+    "static/js/2.79a5d9b1.chunk.js": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js",
+    "static/js/2.79a5d9b1.chunk.js.map": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js.map",
+    "index.html": "/iShowcase-App/index.html",
+    "precache-manifest.15a808eb4364e282c77d6ba37bffe2ab.js": "/iShowcase-App/precache-manifest.15a808eb4364e282c77d6ba37bffe2ab.js",
+    "service-worker.js": "/iShowcase-App/service-worker.js",
+    "static/css/main.796f5faf.chunk.css.map": "/iShowcase-App/static/css/main.796f5faf.chunk.css.map",
+    "static/js/2.79a5d9b1.chunk.js.LICENSE.txt": "/iShowcase-App/static/js/2.79a5d9b1.chunk.js.LICENSE.txt",
+    "static/media/comingsoon.png": "/iShowcase-App/static/media/comingsoon.c07a54cd.png",
+    "static/media/undraw.svg": "/iShowcase-App/static/media/undraw.20b8dd1a.svg",
+    "static/media/undraw2.svg": "/iShowcase-App/static/media/undraw2.f17dcc64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5094d9c0.js",
+    "static/js/2.79a5d9b1.chunk.js",
+    "static/css/main.796f5faf.chunk.css",
+    "static/js/main.571b4ebe.chunk.js"
+  ]
+}
