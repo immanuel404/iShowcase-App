@@ -1,5 +1,5 @@
 # iShowcase-App
-React and MySQL application that allows users to advertise product items for sale. Appplication has full CRUD functionality with theme selection feature. Dependencies include UIKit library and Animate-css library.
+React.js and MySQL application that allows users to showcase product items. Appplication has full CRUD functionality with theme selection feature. Dependencies include UIKit library and Animate-css library.
 
 Repo contains build files of iShowcase-App Demo, along with react component files in 'react components' folder.
 
