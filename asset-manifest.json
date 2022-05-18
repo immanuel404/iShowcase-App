@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b28a4c25.css",
+    "main.js": "/static/js/main.86771c16.js",
+    "static/media/camera.jpg": "/static/media/camera.1345d477f070ff5d38d5.jpg",
+    "static/media/comingsoon.png": "/static/media/comingsoon.f8832bfb30037285c47f.png",
+    "static/media/turntable.jpg": "/static/media/turntable.da716675db941cf31566.jpg",
+    "static/media/laptop1.jpg": "/static/media/laptop1.22dd554551318e1840a2.jpg",
+    "static/media/undraw.svg": "/static/media/undraw.73828b85a9d21badc472128f0583137f.svg",
+    "static/media/undraw2.svg": "/static/media/undraw2.07cc43370e9e50c8ec3bf5ab43b6542b.svg",
+    "index.html": "/index.html",
+    "main.b28a4c25.css.map": "/static/css/main.b28a4c25.css.map",
+    "main.86771c16.js.map": "/static/js/main.86771c16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28a4c25.css",
+    "static/js/main.86771c16.js"
+  ]
+}
