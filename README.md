@@ -4,8 +4,6 @@ React.js and MySQL application that allows users to showcase product items. Appp
 Repo contains build files of iShowcase-App Demo, along with react component files in 'react components' folder.
 
 
-Link: http://ishowcase.epizy.com/
-
-Temp.Demo: https://immanuel404.github.io/iShowcase-App/
+Demo Link: https://immanuel404.github.io/iShowcase-App/
 
 ![](ishowcase.png)
