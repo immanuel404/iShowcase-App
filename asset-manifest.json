@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iShowcase-App/static/css/main.bc3bdaa3.css",
+    "main.js": "/iShowcase-App/static/js/main.cb9632f4.js",
+    "static/media/camera.jpg": "/iShowcase-App/static/media/camera.1345d477f070ff5d38d5.jpg",
+    "static/media/comingsoon.png": "/iShowcase-App/static/media/comingsoon.f8832bfb30037285c47f.png",
+    "static/media/turntable.jpg": "/iShowcase-App/static/media/turntable.da716675db941cf31566.jpg",
+    "static/media/laptop1.jpg": "/iShowcase-App/static/media/laptop1.22dd554551318e1840a2.jpg",
+    "static/media/undraw.svg": "/iShowcase-App/static/media/undraw.73828b85a9d21badc472128f0583137f.svg",
+    "static/media/undraw2.svg": "/iShowcase-App/static/media/undraw2.07cc43370e9e50c8ec3bf5ab43b6542b.svg",
+    "index.html": "/iShowcase-App/index.html",
+    "main.bc3bdaa3.css.map": "/iShowcase-App/static/css/main.bc3bdaa3.css.map",
+    "main.cb9632f4.js.map": "/iShowcase-App/static/js/main.cb9632f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3bdaa3.css",
+    "static/js/main.cb9632f4.js"
+  ]
+}
